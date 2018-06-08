@@ -89,7 +89,8 @@ The community maintainer is expected to:
 - Help maintain an Octokit SDK that strives to meet all the requirements
 - Acknowledge all opened Issues and Pull Requests within 72 hours
 - Implement support for all improvements and new features by launch day
-- Let your GitHub buddy know when you are going to be unavailable so they can take over your duties.
+- Occasionally take time off
+- Let your GitHub buddy know when you are going to be unavailable so they can take over your duties
 - Be a classy representative of GitHub
 
 The GitHub employee is expected to:
