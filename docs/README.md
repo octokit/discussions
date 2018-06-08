@@ -81,14 +81,14 @@ The SDK is open source, has a community maintainer on contract, and a GitHub emp
 
 GitHub will:
 
-- Provide advance notice to maintainers for all platform improvements and features
-- Invite maintainers to any relevant events hosted by GitHub.
+- Provide advance notice to maintainers for all platform improvements and features (at least 1 week notice for incremental improvements, at least 4 weeks notice for all major features)
+- Invite maintainers to any relevant events hosted by GitHub
 
 The community maintainer is expected to:
 
-- Dedicate at least 20 hrs/week (not to exceed 40 hrs/week) to maintaining the client
+- Help maintain an Octokit SDK that strives to meet all the requirements
 - Acknowledge all opened Issues and Pull Requests within 72 hours
-- Implement support for all improvements and new features by launch day (1 week notice for incremental improvements, 4 weeks notice for all major features).
+- Implement support for all improvements and new features by launch day
 - Let your GitHub buddy know when you are going to be unavailable so they can take over your duties.
 - Be a classy representative of GitHub
 
