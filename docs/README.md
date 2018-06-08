@@ -25,9 +25,7 @@ Each Octokit will work towards meeting these requirements:
 | [Maintained](#maintained)       | 🌑         | 🌑   | 🌑   |
 | [Collaborative](#collaborative) | 🌑         | 🌑   | 🌑   |
 
-Key:
-
-🌑 Not started — 🌔 In progress —  ✅ Meets requirements
+Key: 🌑 Not started — 🌔 In progress —  ✅ Meets requirements
 
 ## Complete
 
@@ -45,7 +43,7 @@ Each feature is available both as individual packages and one monolithic meta-pa
 
 ## Generated
 
-Any part of the SDK that varies based on the target GitHub instance should be generated from a schema.
+Any part of the SDK that varies based on the target GitHub instance should be generated from a common schema.
 
 This currently applies to the REST API, webhooks, and any GraphQL wrappers.
 
