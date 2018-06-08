@@ -96,6 +96,7 @@ The community maintainer is expected to:
 The GitHub employee is expected to:
 
 - Respond to any requests for review or feedback from the community maintainer
+- Provide coverage for maintainer when they are on vacation
 - Raise any concerns or issues with the client or maintainer
 
 ## Collaborative
