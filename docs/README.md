@@ -11,18 +11,18 @@ Each Octokit will work towards meeting these requirements:
 | [Complete](#complete)           | 🌔         | 🌔   | 🌔   |
 | → REST                          | ✅         | ✅   | ✅   |
 | → GraphQL                       | 🌔         | 🌑   | 🌑   |
-| → GitHub Apps                   | 🌔         | 🌑   | 🌑   |
-| → OAuth                         | 🌔         | 🌑   | 🌑   |
+| → GitHub Apps                   | 🌔         | 🌔   | 🌑   |
+| → OAuth                         | 🌔         | ✅   | 🌑   |
 | → Webhooks                      | ✅         | 🌑   | 🌑   |
 | [Decomposable](#decomposable)   | ✅         | 🌑   | 🌑   |
-| [Generated](#generated)         | ✅         | 🌑   | 🌑   |
-| [Native](#native)               | ✅         | 🌑   | 🌑   |
-| [Documented](#documented)       | 🌔         | 🌑   | 🌑   |
-| [Tested](#tested)               | ✅         | 🌑   | 🌑   |
+| [Generated](#generated)         | ✅         | 🌔   | 🌑   |
+| [Native](#native)               | ✅         | ✅   | 🌑   |
+| [Documented](#documented)       | 🌔         | ✅   | 🌑   |
+| [Tested](#tested)               | ✅         | 🌔   | 🌑   |
 | [Friendly](#friendly)           | 🌑         | 🌑   | 🌑   |
 | [Prescriptive](#prescriptive)   | 🌑         | 🌑   | 🌑   |
 | [Supported](#supported)         | ✅         | 🌑   | 🌑   |
-| [Maintained](#maintained)       | ✅         | 🌑   | 🌑   |
+| [Maintained](#maintained)       | ✅         | 🌔   | 🌑   |
 | [Collaborative](#collaborative) | ✅         | 🌑   | 🌑   |
 
 Key: 🌑 Not started — 🌔 In progress —  ✅ Meets requirements
