@@ -9,16 +9,16 @@ Each Octokit will work towards meeting these requirements:
 |                                 | JavaScript | Ruby | .NET |
 | ------------------------------- | ---------- | ---- | ---- |
 | [Complete](#complete)           | 🌔         | 🌔   | 🌔   |
-| → REST                          | ✅         | ✅   | ✅   |
-| → GraphQL                       | 🌔         | 🌑   | 🌑   |
-| → GitHub Apps                   | 🌔         | 🌔   | 🌑   |
-| → OAuth                         | 🌔         | ✅   | 🌑   |
-| → Webhooks                      | ✅         | 🌑   | 🌑   |
+| → REST                          | ✅         | ✅   | 🌔   |
+| → GraphQL                       | 🌔         | 🌑   | 🌔   |
+| → GitHub Apps                   | 🌔         | 🌔   | ✅   |
+| → OAuth                         | 🌔         | ✅   | ✅   |
+| → Webhooks                      | ✅         | 🌑   | 🌔   |
 | [Decomposable](#decomposable)   | ✅         | 🌑   | 🌑   |
-| [Generated](#generated)         | ✅         | 🌔   | 🌑   |
-| [Native](#native)               | ✅         | ✅   | 🌑   |
-| [Documented](#documented)       | 🌔         | ✅   | 🌑   |
-| [Tested](#tested)               | ✅         | 🌔   | 🌑   |
+| [Generated](#generated)         | ✅         | 🌔   | 🌔   |
+| [Native](#native)               | ✅         | ✅   | ✅   |
+| [Documented](#documented)       | 🌔         | ✅   | 🌔   |
+| [Tested](#tested)               | ✅         | 🌔   | 🌔   |
 | [Friendly](#friendly)           | 🌑         | 🌑   | 🌑   |
 | [Prescriptive](#prescriptive)   | 🌑         | 🌑   | 🌑   |
 | [Supported](#supported)         | ✅         | 🌑   | 🌑   |
