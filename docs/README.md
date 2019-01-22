@@ -10,9 +10,9 @@ Each Octokit will work towards meeting these requirements:
 | ------------------------------- | ---------- | ---- | ---- |
 | [Complete](#complete)           | 🌔         | 🌔   | 🌔   |
 | → REST                          | ✅         | ✅   | 🌔   |
-| → GraphQL                       | 🌔         | 🌑   | 🌔   |
-| → GitHub Apps                   | 🌔         | 🌔   | ✅   |
-| → OAuth                         | 🌔         | ✅   | ✅   |
+| → GraphQL                       | ✅         | 🌑   | 🌔   |
+| → GitHub Apps                   | ✅         | 🌔   | ✅   |
+| → OAuth                         | 🌑         | 🌑   | 🌑   |
 | → Webhooks                      | ✅         | 🌑   | 🌔   |
 | [Decomposable](#decomposable)   | ✅         | 🌑   | 🌑   |
 | [Generated](#generated)         | ✅         | 🌔   | 🌔   |
@@ -20,7 +20,7 @@ Each Octokit will work towards meeting these requirements:
 | [Documented](#documented)       | 🌔         | ✅   | 🌔   |
 | [Tested](#tested)               | ✅         | 🌔   | 🌔   |
 | [Friendly](#friendly)           | 🌑         | 🌑   | 🌑   |
-| [Prescriptive](#prescriptive)   | 🌑         | 🌑   | 🌑   |
+| [Prescriptive](#prescriptive)   | 🌔         | 🌑   | 🌑   |
 | [Supported](#supported)         | ✅         | 🌑   | 🌑   |
 | [Maintained](#maintained)       | ✅         | 🌔   | 🌑   |
 | [Collaborative](#collaborative) | ✅         | 🌑   | 🌑   |
