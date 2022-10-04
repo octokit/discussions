@@ -11,10 +11,10 @@ Each Octokit will work towards meeting these requirements:
 | [Complete](#complete)           | 🌔         | 🌔   | 🌔   |
 | → REST                          | ✅         | ✅   | 🌔   |
 | → GraphQL                       | ✅         | 🌑   | 🌔   |
-| → OAuth                         | 🌑         | 🌑   | 🌑   |
+| → OAuth                         | ✅         | 🌑   | 🌑   |
 | → Webhooks                      | ✅         | 🌑   | 🌔   |
 | → GitHub Apps                   | ✅         | 🌔   | ✅   |
-| → Actions                       | 🌑         | 🌑   | 🌑   |
+| → Actions                       | 🌔         | 🌑   | 🌑   |
 | [Decomposable](#decomposable)   | ✅         | 🌑   | 🌑   |
 | [Generated](#generated)         | ✅         | 🌔   | 🌔   |
 | [Native](#native)               | ✅         | ✅   | ✅   |
