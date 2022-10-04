@@ -21,7 +21,7 @@ Each Octokit will work towards meeting these requirements:
 | [Documented](#documented)       | 🌔         | ✅   | 🌔   |
 | [Tested](#tested)               | ✅         | 🌔   | 🌔   |
 | [Friendly](#friendly)           | 🌑         | 🌑   | 🌑   |
-| [Prescriptive](#prescriptive)   | 🌔         | 🌑   | 🌑   |
+| [Prescriptive](#prescriptive)   | ✅         | 🌑   | 🌑   |
 | [Supported](#supported)         | ✅         | 🌑   | 🌑   |
 | [Maintained](#maintained)       | ✅         | 🌔   | 🌑   |
 | [Collaborative](#collaborative) | ✅         | 🌑   | 🌑   |
